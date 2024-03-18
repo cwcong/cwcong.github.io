@@ -1,11 +1,12 @@
 title: cwcong
-author: 
-  name: 
-  email:
+author: 肥嘟嘟左卫门
+  name: 肥嘟嘟左卫门
+  email: test
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
+  test
   
 
 # Build settings
